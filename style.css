@@ -1,0 +1,68 @@
+
+body{
+
+    background-color: rgb(255, 168, 183);
+    
+
+}
+main{
+    margin: 100px;
+    
+}
+
+#container{
+    
+    display: block;
+    width: 400px;
+    margin: auto;
+    
+
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 90px;
+    text-align: center;
+    align-items: unset;
+    color: rgb(212, 22, 22);
+    text-shadow: rgb(0, 0, 0) 4px 2.5px 2px;
+    
+}
+
+#bot{
+
+    position: relative;
+    width: 250px;
+    margin: auto;
+
+}
+
+button{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: red;
+    color: rgb(10, 10, 10);
+    width: 150px;
+    height: 55px;
+    position: relative;
+    border: none;
+    border-radius: 60px;
+    margin-right: 30px;
+
+}
+
+.mover{
+
+    position: absolute;
+    
+    margin-left: 30px;
+    
+
+}
+
+p{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(210, 18, 18);
+    text-shadow: 1.5px 1px 1.5px black;
+}
